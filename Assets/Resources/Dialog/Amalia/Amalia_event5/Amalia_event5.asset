@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 380e32fa4c3fb95438357ba125be2db7, type: 3}
+  m_Name: Amalia_event5
+  m_EditorClassIdentifier: 
+  _iconSprite: {fileID: 21300000, guid: 4143ad8b8c2fb2249b9d87596781e612, type: 3}
+  isGood: 0
+  DialogData: {fileID: 11400000, guid: 5e899d7a198cfa14586d395c1831daee, type: 2}
+  Answers: {fileID: 11400000, guid: 4727479df256292408cd9b20694e47c9, type: 2}
+  DialogCharacter: {fileID: 11400000, guid: f0cf062781c66a24889a22b05b72f95d, type: 2}

@@ -1,0 +1,592 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: Rect Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: Rect
+  m_TableCollectionNameGuidString: 17c86a4d3eaf70c4181904b920f70479
+  m_Entries:
+  - m_Id: 14482952716017664
+    m_Key: New_game
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14482952770543616
+    m_Key: Setting
+    m_Metadata:
+      m_Items: []
+  - m_Id: 981162033152
+    m_Key: Exit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5503787761664
+    m_Key: Amalia_event1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5503787761665
+    m_Key: Amalia_event2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5503787761666
+    m_Key: Amalia_event3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5503791955968
+    m_Key: Amalia_event4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5503791955969
+    m_Key: Amalia_event5
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5503791955970
+    m_Key: Amalia_event6
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5503791955971
+    m_Key: Byanka_event1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5503791955972
+    m_Key: Byanka_event2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5503791955973
+    m_Key: Byanka_event3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5503791955974
+    m_Key: Byanka_event4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5503791955975
+    m_Key: Byanka_event5
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5503791955976
+    m_Key: Byanka_event6
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5503791955977
+    m_Key: Dominic_event1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5503791955978
+    m_Key: Dominic_event2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5503791955979
+    m_Key: Dominic_event3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5503791955980
+    m_Key: Dominic_event4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5503791955981
+    m_Key: Dominic_event5
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5503791955982
+    m_Key: Dominic_event6
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5503791955983
+    m_Key: Vito_event1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5503791955984
+    m_Key: Vito_event2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5503791955985
+    m_Key: Vito_event3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5503791955986
+    m_Key: Vito_event4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5503791955987
+    m_Key: Vito_event5
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5503791955988
+    m_Key: Vito_event6
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24347940856442880
+    m_Key: Amalia_event1_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24347940885803008
+    m_Key: Amalia_event2_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24347940885803009
+    m_Key: Amalia_event3_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24347940885803010
+    m_Key: Amalia_event4_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24347940885803011
+    m_Key: Amalia_event5_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24347940885803012
+    m_Key: Amalia_event6_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14528259937185797
+    m_Key: Byanka_event1_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14528259937185798
+    m_Key: Byanka_event2_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14528259937185799
+    m_Key: Byanka_event3_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14528259937185800
+    m_Key: Byanka_event4_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14528259937185801
+    m_Key: Byanka_event5_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14528259937185802
+    m_Key: Byanka_event6_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24355636267626496
+    m_Key: Dominic_event1_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24355636296986624
+    m_Key: Dominic_event2_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24355636296986625
+    m_Key: Dominic_event3_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24355636296986626
+    m_Key: Dominic_event4_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24355636296986627
+    m_Key: Dominic_event5_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24355636296986628
+    m_Key: Dominic_event6_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14528259937185809
+    m_Key: Vito_event1_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14528259937185810
+    m_Key: Vito_event2_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14528259937185811
+    m_Key: Vito_event3_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14528259937185812
+    m_Key: Vito_event4_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14528259937185813
+    m_Key: Vito_event5_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14528259937185814
+    m_Key: Vito_event6_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24347940885803013
+    m_Key: Amalia_event1_good_result
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24347940885803014
+    m_Key: Amalia_event2_good_result
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24347940885803015
+    m_Key: Amalia_event3_good_result
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24347940885803016
+    m_Key: Amalia_event4_good_result
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24347940885803017
+    m_Key: Amalia_event5_good_result
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24347940885803018
+    m_Key: Amalia_event6_good_result
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14528259937185821
+    m_Key: Byanka_event1_good_result
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14528259937185822
+    m_Key: Byanka_event2_good_result
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14528259937185823
+    m_Key: Byanka_event3_good_result
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14528259937185824
+    m_Key: Byanka_event4_good_result
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14528259937185825
+    m_Key: Byanka_event5_good_result
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14528259937185826
+    m_Key: Byanka_event6_good_result
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24355636296986629
+    m_Key: Dominic_event1_good_result
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24355636296986630
+    m_Key: Dominic_event2_good_result
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24355636296986631
+    m_Key: Dominic_event3_good_result
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24355636296986632
+    m_Key: Dominic_event4_good_result
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24355636296986633
+    m_Key: Dominic_event5_good_result
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24355636296986634
+    m_Key: Dominic_event6_good_result
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14528259937185833
+    m_Key: Vito_event1_good_result
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14528259937185834
+    m_Key: Vito_event2_good_result
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14528259937185835
+    m_Key: Vito_event3_good_result
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14528259937185836
+    m_Key: Vito_event4_good_result
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14528259937185837
+    m_Key: Vito_event5_good_result
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14528259937185838
+    m_Key: Vito_event6_good_result
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24347940885803019
+    m_Key: Amalia_event1_evil_result
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24347940885803020
+    m_Key: Amalia_event2_evil_result
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24347940885803021
+    m_Key: Amalia_event3_evil_result
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24347940885803022
+    m_Key: Amalia_event4_evil_result
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24347940885803023
+    m_Key: Amalia_event5_evil_result
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24347940885803024
+    m_Key: Amalia_event6_evil_result
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14528259937185845
+    m_Key: Byanka_event1_evil_result
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14528259937185846
+    m_Key: Byanka_event2_evil_result
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14528259937185847
+    m_Key: Byanka_event3_evil_result
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14528259937185848
+    m_Key: Byanka_event4_evil_result
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14528259937185849
+    m_Key: Byanka_event5_evil_result
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14528259937185850
+    m_Key: Byanka_event6_evil_result
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24355636296986635
+    m_Key: Dominic_event1_evil_result
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24355636296986636
+    m_Key: Dominic_event2_evil_result
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24355636296986637
+    m_Key: Dominic_event3_evil_result
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24355636296986638
+    m_Key: Dominic_event4_evil_result
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24355636296986639
+    m_Key: Dominic_event5_evil_result
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24355636296986640
+    m_Key: Dominic_event6_evil_result
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14528259937185857
+    m_Key: Vito_event1_evil_result
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14528259937185858
+    m_Key: Vito_event2_evil_result
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14528259937185859
+    m_Key: Vito_event3_evil_result
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14528259937185860
+    m_Key: Vito_event4_evil_result
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14528259937185861
+    m_Key: Vito_event5_evil_result
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14528259937185862
+    m_Key: Vito_event6_evil_result
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24347940885803025
+    m_Key: Amalia_event1_dialog
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24347940885803026
+    m_Key: Amalia_event2_dialog
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24347940885803027
+    m_Key: Amalia_event3_dialog
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24347940885803028
+    m_Key: Amalia_event4_dialog
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24347940885803029
+    m_Key: Amalia_event5_dialog
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24347940889997312
+    m_Key: Amalia_event6_dialog
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14528259937185869
+    m_Key: Byanka_event1_dialog
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14528259937185870
+    m_Key: Byanka_event2_dialog
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14528259937185871
+    m_Key: Byanka_event3_dialog
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14528259937185872
+    m_Key: Byanka_event4_dialog
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14528259937185873
+    m_Key: Byanka_event5_dialog
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14528259937185874
+    m_Key: Byanka_event6_dialog
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24355636296986641
+    m_Key: Dominic_event1_dialog
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24355636296986642
+    m_Key: Dominic_event2_dialog
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24355636296986643
+    m_Key: Dominic_event3_dialog
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24355636296986644
+    m_Key: Dominic_event4_dialog
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24355636296986645
+    m_Key: Dominic_event5_dialog
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24355636296986646
+    m_Key: Dominic_event6_dialog
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14528259941380097
+    m_Key: Vito_event1_dialog
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14528259941380098
+    m_Key: Vito_event2_dialog
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14528259941380099
+    m_Key: Vito_event3_dialog
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14528259941380100
+    m_Key: Vito_event4_dialog
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14528259941380101
+    m_Key: Vito_event5_dialog
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14528259941380102
+    m_Key: Vito_event6_dialog
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14527393461088351
+    m_Key: Comics_title_1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14527393461088352
+    m_Key: Comics_title_2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24347940889997313
+    m_Key: Amalia_answer_1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24347940889997314
+    m_Key: Amalia_answer_2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24347940889997315
+    m_Key: Amalia_answer_3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14527393461088356
+    m_Key: Byanka_answer_1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14527393461088357
+    m_Key: Byanka_answer_2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14527393461088358
+    m_Key: Byanka_answer_3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24355636296986647
+    m_Key: Dominic_answer_1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24355636296986648
+    m_Key: Dominic_answer_2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24355636296986649
+    m_Key: Dominic_answer_3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14527393461088362
+    m_Key: Vito_answer_1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14527393461088363
+    m_Key: Vito_answer_2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14527393461088364
+    m_Key: Vito_answer_3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24356271637573632
+    m_Key: Vito_end
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24356271637573633
+    m_Key: Dominic_end
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24356271637573634
+    m_Key: Amalia_end
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24356271637573635
+    m_Key: Byanka_end
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 9028339595572412417
+  references:
+    version: 2
+    RefIds:
+    - rid: 9028339595572412417
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1743496713270

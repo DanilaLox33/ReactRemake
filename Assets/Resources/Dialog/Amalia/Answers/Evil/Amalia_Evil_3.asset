@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5e32cfd20eb630849bb899ec4a556bbb, type: 3}
+  m_Name: Amalia_Evil_3
+  m_EditorClassIdentifier: 
+  dialogs:
+  - Character: {fileID: 11400000, guid: f0cf062781c66a24889a22b05b72f95d, type: 2}
+    Type: 0
+    PersonText: Amalia_answer_3
+  Next: {fileID: 11400000, guid: 4544518aa1b70b842bda3ad0b4a68503, type: 2}
+  dialogEvent: {fileID: 0}
+  NameChoose: 2
+  AdditionalInformation: 
+  Power: 0
+  AnswerName: "\u041D\u0435\u0442"

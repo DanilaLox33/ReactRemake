@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b41d3eff5cf4cf4e9e7cd12acf22657, type: 3}
+  m_Name: AmaliaAnswer
+  m_EditorClassIdentifier: 
+  _goodAnswer:
+  - {fileID: 11400000, guid: f02746af12096d042845c431e04c229c, type: 2}
+  - {fileID: 11400000, guid: d53b54937b694aa4f94d7b54edcf950e, type: 2}
+  - {fileID: 11400000, guid: 499811c270ebb214fa8ec10833e91dfd, type: 2}
+  _evilAnswer:
+  - {fileID: 11400000, guid: 5810b8244c21ab248b8305fcc0dc5bb9, type: 2}
+  - {fileID: 11400000, guid: 9e0cd38df499ffa49ad4b15dfa847d44, type: 2}
+  - {fileID: 11400000, guid: b5d26df68a474d143bf2d3c679e30558, type: 2}

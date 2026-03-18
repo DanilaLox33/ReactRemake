@@ -1,0 +1,749 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Rect_En
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 17c86a4d3eaf70c4181904b920f70479, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 981162033152
+    m_Localized: Exit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5503791955981
+    m_Localized: Dominic highlights the dangers of increased smuggling and piracy
+      and suggests allocating resources for urgent repairs and modernization of ships
+      in order to quickly return the fleet to protecting the coast.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14482952716017664
+    m_Localized: New game
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14482952770543616
+    m_Localized: Settings
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5503787761664
+    m_Localized: Amalia suggests directing resources to rebuilding the best-preserved
+      schools so that children can return to normal education.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5503787761665
+    m_Localized: Amalia is concerned about the catastrophic state of hospitals and
+      believes it is necessary to urgently purchase medicines, new equipment and
+      increase salaries for medical workers.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5503787761666
+    m_Localized: "Amalia warns of outbreaks of long-forgotten diseases, calling for
+      the country to be urgently supplied with new batches of vaccines to protect
+      the most vulnerable citizens \u2013 children and the elderly."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5503791955968
+    m_Localized: Amalia points to serious problems with universities, proposing to
+      restore buildings and improve working conditions for professors so that young
+      people can receive a quality education and stop leaving for abroad.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5503791955969
+    m_Localized: Amalia is concerned about overcrowded kindergartens, a shortage
+      of teachers and broken equipment, and believes that urgent funds are needed
+      to improve conditions for children and teachers.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5503791955970
+    m_Localized: Amalia is sounding the alarm over the acute shortage of qualified
+      nurses and is proposing to raise their salaries and improve working conditions
+      to stop the mass exodus of staff abroad.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5503791955971
+    m_Localized: Bianca warns that the oil rigs have stopped and suggests that production
+      be restored immediately to avoid losing important clients.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5503791955972
+    m_Localized: Bianca is concerned about the production line at the main engineering
+      plant stopping and recommends urgent repairs to the equipment to avoid serious
+      production delays.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5503791955973
+    m_Localized: Bianca reports that the orange processing plant is overloaded and
+      advises that additional juice extraction lines be installed quickly to prevent
+      crop loss.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5503791955974
+    m_Localized: Bianca reports a major leak at the LNG terminal and suggests converting
+      some of the infrastructure to a more modern and reliable cryogenic system.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5503791955975
+    m_Localized: Bianca points out a critical breakdown of the rolling mill at the
+      steel mill and suggests purchasing durable German equipment so as not to disrupt
+      the fulfillment of important military orders.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5503791955976
+    m_Localized: Bianca is concerned about the state of raw material storage at the
+      cement plant and believes it is necessary to invest in the construction of
+      new silos and the installation of drying equipment to ensure the stability
+      of construction work throughout the country.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5503791955977
+    m_Localized: Dominic is concerned about the rise in juvenile crime and suggests
+      forming a people's police force to bring order to the streets.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5503791955978
+    m_Localized: Domenic believes that there is an urgent need to restore the border,
+      strengthening patrols and checkpoints to protect against looters and an uncontrolled
+      flow of refugees.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5503791955979
+    m_Localized: Dominic warns that military equipment has become unusable and calls
+      for immediate resources to be directed towards repairs and spare parts to maintain
+      control of the region.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5503791955980
+    m_Localized: Domenica insists on the restoration and expansion of the video surveillance
+      system in order to promptly prevent crimes and stabilize the situation in the
+      city.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5503791955982
+    m_Localized: Dominic is concerned that damaged runways and helipads are preventing
+      aviation from responding quickly to emergencies and suggests that airfield
+      infrastructure be immediately restored.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5503791955983
+    m_Localized: Vito suggests building cell towers to enable employees to work remotely.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5503791955984
+    m_Localized: Vito proposes to finance the restoration and expansion of railroads
+      in order to improve food supplies and prevent an economic crisis.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5503791955985
+    m_Localized: Vito recommends allocating funds for the rapid construction of modular
+      housing to help affected families and return people to normal life and work.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5503791955986
+    m_Localized: Vito proposes to restore the irrigation system to save the crop
+      and ensure food security for the region.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5503791955987
+    m_Localized: Vito believes it is necessary to purchase agricultural machinery
+      and fertilizers to support farmers and help agriculture get back on its feet
+      after the destruction.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5503791955988
+    m_Localized: Vito advises organizing fairs and temporary markets in the surviving
+      areas of the city to help entrepreneurs recover and provide residents with
+      necessary goods.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14527393461088351
+    m_Localized: President's Advice #1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14527393461088352
+    m_Localized: President's Advice #2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14527393461088356
+    m_Localized: Wow, boss, you're especially generous today!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14527393461088357
+    m_Localized: 'Eh, I wish I could add a zero here to the total... '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14527393461088358
+    m_Localized: Oh, boss, you can't cook porridge with me...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24356271637573634
+    m_Localized: Amalia went out and the door slammed.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24356271637573633
+    m_Localized: Dominic walked out and the door slammed.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24356271637573632
+    m_Localized: Vito went out and the door slammed.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14527393461088362
+    m_Localized: Excellent! With this kind of money we will do everything in the
+      best possible way!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14527393461088363
+    m_Localized: It's not enough, of course, but we can handle it!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14527393461088364
+    m_Localized: This is a big mistake, Boss.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14528259937185797
+    m_Localized: Oil
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14528259937185798
+    m_Localized: Factory
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14528259937185799
+    m_Localized: Oranges
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14528259937185800
+    m_Localized: LNG
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14528259937185801
+    m_Localized: Steel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14528259937185802
+    m_Localized: Cement
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14528259937185809
+    m_Localized: Cell towers
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14528259937185810
+    m_Localized: Railway
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14528259937185811
+    m_Localized: Housing
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14528259937185812
+    m_Localized: Farm
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14528259937185813
+    m_Localized: Agriculture
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14528259937185814
+    m_Localized: Fairs and markets
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14528259937185821
+    m_Localized: Bianca found a good contractor to restore the oil rigs.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14528259937185822
+    m_Localized: Bianca quickly signed a contract with a reliable company from Turin.
+      Within a week, the workshops were operating at full capacity, and the workshop's
+      productivity increased.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14528259937185823
+    m_Localized: Bianca installed new lines in a matter of days, managed to save
+      most of the harvest. Juice production increased, and foreign partners lined
+      up.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14528259937185824
+    m_Localized: Bianca hired cryo-specialists from the north, everything was fixed
+      in record time. The leak was fixed, the pressure stabilized, and the Japanese
+      sent a thank-you fax and extended the contract.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14528259937185825
+    m_Localized: 'Bianca squeezed the maximum out of the budget: she brought in the
+      machines, set up the lines, and the rolling went smoothly, like clockwork.
+      The plant started working, the schedules were caught up, the profits grew.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14528259937185826
+    m_Localized: Bianca did not let us down - new silos appeared at the plant, installation
+      was carried out around the clock. Raw materials are now stored in ideal conditions,
+      and production volumes have increased.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14528259937185833
+    m_Localized: Vito was purchasing telecommunications equipment
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14528259937185834
+    m_Localized: Vito entered into contracts for the repair of railway tracks and
+      the purchase of new carriages.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14528259937185835
+    m_Localized: Vito was actively involved in purchasing and installing quality
+      modular homes for affected families.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14528259937185836
+    m_Localized: Vito organized prompt repairs of canals and purchased equipment
+      for irrigation systems.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14528259937185837
+    m_Localized: Vito was actively involved in purchasing and installing quality
+      modular homes for affected families.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14528259937185838
+    m_Localized: Vito was involved in organizing temporary trading platforms and
+      negotiating preferential rent for small traders.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14528259937185845
+    m_Localized: Bianca didn't touch the rigs and moved all the money offshore. The
+      barrels remained empty and the buyers were angry.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14528259937185846
+    m_Localized: The money went to a "paper" modernization. Bianca got involved with
+      a dubious contractor who disappeared after the advance payment. The plant stopped
+      completely, the workers are on strike, the schedules are disrupted.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14528259937185847
+    m_Localized: Bianca didn't buy the equipment, but wrote off the funds for non-existent
+      "cooling units". The oranges rotted right in the warehouse. The reputation
+      is tarnished, contracts with the southerners are broken.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14528259937185848
+    m_Localized: "Bianca made an agreement with a fictitious company, \u201CArktika
+      Gas Tech,\u201D which disappeared immediately after the transfer. The tank
+      burst three days later. The losses are huge, the export is disrupted, and Asian
+      partners are preparing lawsuits."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14528259937185849
+    m_Localized: Bianca contacted resellers, paid an advance, and was left with empty
+      boxes. Production came to a complete standstill, contracts were broken, and
+      only the echo of discontent could be heard in the workshops.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14528259937185850
+    m_Localized: Bianca secretly sent the allocated funds to an underground supply
+      network for the "labor front." The warehouse never appeared, the cement became
+      damp, and construction stopped.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14528259937185857
+    m_Localized: Vito was spotted in an old weapons warehouse.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14528259937185858
+    m_Localized: Vito secretly sold building materials on the black market to local
+      dealers.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14528259937185859
+    m_Localized: Vito was caught buying cheap, low-quality materials and pocketing
+      the money he saved.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14528259937185860
+    m_Localized: Vito purchased equipment at inflated prices from his cousin, splitting
+      the profits with him.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14528259937185861
+    m_Localized: Vito was seen negotiating the resale of purchased equipment to foreign
+      speculators.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14528259937185862
+    m_Localized: Vito was caught charging personal "commissions" from businessmen
+      for prime spots at fairs.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14528259937185869
+    m_Localized: Chief, all the oil rigs have stopped, buyers of our black gold are
+      sounding the alarm, we need to fix the situation urgently.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14528259937185870
+    m_Localized: Chief, the conveyor at our main machine-building plant has stopped
+      again! The transmission shafts are cracking like old bones. If we don't fix
+      it, we'll lose three weeks of production!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14528259937185871
+    m_Localized: Commander, there is trouble with orange processing! The plant is
+      overloaded, part of the harvest has already started to spoil. We can install
+      additional juice extraction lines - quickly, efficiently and with minimal losses
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14528259937185872
+    m_Localized: 'Chief, we have problems at the liquefied natural gas terminal.
+      One of the tanks has a leak - the pressure is dropping, volumes are not delivered,
+      and the Japanese are already calling! There is a solution: transfer part of
+      the infrastructure to a new cryogenic system. Not cheap, but reliable.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14528259937185873
+    m_Localized: Chief, the rolling mill at the steel mill is standing still. The
+      bearings are out of order, and we need sheet steel like air right now - especially
+      for military contracts. I have equipment in mind from Germany, not new, but
+      strong. We need to invest and bring it.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14528259937185874
+    m_Localized: Commander, the warehouses at the cement plant are bursting at the
+      seams - raw materials are stored in the open air, half of them are already
+      damp. If we don't invest in normal silos and drying units, we will lose the
+      pace of construction throughout the country.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24356271637573635
+    m_Localized: Bianca left and the door slammed shut.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14528259941380097
+    m_Localized: Boss, after the earthquake, most of the office buildings were destroyed.
+      Maybe we should allocate funds for cell towers, let's transfer employees to
+      remote work?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14528259941380098
+    m_Localized: 'Boss, the situation is difficult: ports and roads are badly damaged,
+      food is rotting in warehouses. What if we invest in repairing and expanding
+      the railway? That way we can save supplies and keep the economy from collapsing!'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14528259941380099
+    m_Localized: "Boss, hundreds of families have been left homeless after the earthquake.
+      I propose that the budget be directed towards the rapid construction of modular
+      homes. This way, people will feel safe again and return to work \u2013 the
+      economy will start to revive!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14528259941380100
+    m_Localized: Our farmers are desperate, boss! Irrigation canals are destroyed,
+      crops are at risk. Maybe we can finance the restoration of the irrigation system?
+      We'll save the crop, feed the people and support the economy!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14528259941380101
+    m_Localized: After the earthquake, many farmers were left without machinery and
+      equipment. Boss, maybe we should use the money to buy agricultural machinery
+      and fertilizers? We'll restore agriculture - people will thank us, and the
+      market will come back to life!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14528259941380102
+    m_Localized: The city is almost completely destroyed, Boss! Let's organize fairs
+      and temporary markets in the surviving areas? Let's support local entrepreneurs
+      and help ordinary people buy the most necessary things!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24347940856442880
+    m_Localized: Schools
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24347940885803008
+    m_Localized: Hospitals
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24347940885803009
+    m_Localized: Diseases
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24347940885803010
+    m_Localized: Universities
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24347940885803011
+    m_Localized: Kindergartens
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24347940885803012
+    m_Localized: Nurses
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24347940885803013
+    m_Localized: Amalia supervised contractors for the restoration of central school
+      buildings.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24347940885803014
+    m_Localized: Amalia personally ensured that new equipment and medicines were
+      delivered to each hospital and that doctors received the promised bonuses.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24347940885803015
+    m_Localized: Amalia organized a large-scale vaccination campaign; the vaccines
+      turned out to be high-quality and safe, and the incidence rate rapidly declined.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24347940885803016
+    m_Localized: Amalia organized a thorough restoration of the university buildings,
+      purchased new teaching equipment, and negotiated the return of the best professors
+      back to the country.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24347940885803017
+    m_Localized: Amalia successfully opened several new kindergartens, carried out
+      high-quality repairs to existing buildings and achieved a significant increase
+      in salaries for teachers.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24347940885803018
+    m_Localized: Amalia organized a training and professional development program
+      for nurses, improved living conditions, and achieved significant salary increases.
+      Medical personnel returned to hospitals.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24347940885803019
+    m_Localized: Amalia housed the teaching staff and students in tents and transferred
+      the remaining money offshore.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24347940885803020
+    m_Localized: Amalia bought decommissioned devices at an inflated price, the medicines
+      turned out to be expired, and the doctors received only promises. The rest
+      ended up in the pockets of her relatives.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24347940885803021
+    m_Localized: Amalia bought cheap vaccines of dubious quality, part of the population
+      fell ill from the side effects, and the remaining money quietly settled in
+      the accounts of her old friend from abroad.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24347940885803022
+    m_Localized: Amalia only carried out cosmetic repairs to a couple of classrooms,
+      purchased outdated and decommissioned equipment, and spent most of the money
+      on building a luxurious villa for her nephew.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24347940885803023
+    m_Localized: Amalia only slightly painted the facades, bought the cheapest toys,
+      and instead of raising salaries, she threw a lavish party for her grandchildren
+      with the remaining money.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24347940885803024
+    m_Localized: "Amalia opened only nominal courses without teachers, bought cheap
+      uniforms and passed them off as \u201Cstaff support,\u201D and sent the remaining
+      money to the accounts of people she knew in a neighboring country."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24347940885803025
+    m_Localized: Our schools are destroyed, capoccia. Children have nowhere to study
+      and gain new knowledge. I propose to restore and renovate the most surviving
+      schools.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24347940885803026
+    m_Localized: Oh, dear capoccia, our hospitals have fallen into disrepair. Patients
+      lie right in the corridors, there is a catastrophic shortage of medicines,
+      and doctors can barely stand on their feet from fatigue! I propose that we
+      urgently purchase new equipment and medicines and raise doctors' salaries.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24347940885803027
+    m_Localized: Oh, my dear capoccia, what a disaster! Outbreaks of diseases have
+      become more frequent in the country, which I had forgotten about since my youth!
+      Children and old people are defenseless against these viruses, and we have
+      very few vaccines, we need new purchases.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24347940885803028
+    m_Localized: Oh, my dear capoccia, it hurts my heart to see how our youth strives
+      to study, and the universities are almost destroyed! Professors flee abroad,
+      classrooms leak, students cannot receive a decent education.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24347940885803029
+    m_Localized: Oh, capoccia, the kids are completely unsupervised! Our kindergartens
+      are overcrowded, there aren't enough beds, toys are broken, and the teachers
+      are running away, unable to handle the workload
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24347940889997312
+    m_Localized: Oh, capoccia, we have almost no qualified nurses left in our country!
+      Girls work day and night, and many are already leaving for abroad - the conditions
+      are better there and the salaries are higher.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24347940889997313
+    m_Localized: My dear, thank you for your generosity, now we can definitely cope!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24347940889997314
+    m_Localized: This is very little for our needs, my dear...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24347940889997315
+    m_Localized: "Oh, my dear, you shouldn\u2019t have done that\u2026"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24355636267626496
+    m_Localized: Crime
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24355636296986624
+    m_Localized: Border
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24355636296986625
+    m_Localized: Tanks
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24355636296986626
+    m_Localized: Crime
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24355636296986627
+    m_Localized: Fleet
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24355636296986628
+    m_Localized: Aviation
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24355636296986629
+    m_Localized: Dominic was involved in selecting and recruiting trusted people
+      for police raids.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24355636296986630
+    m_Localized: Dominic personally led the defense and successfully prevented the
+      looters from entering, maintaining order on the approaches to the city.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24355636296986631
+    m_Localized: Dominic quickly organized repairs and restored key vehicles, allowing
+      the army to quickly respond to threats and ensure the safety of residents.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24355636296986632
+    m_Localized: Dominic personally supervised the installation and operation of
+      the cameras. The increased surveillance allowed several crimes to be quickly
+      solved and the situation to be stabilized.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24355636296986633
+    m_Localized: Dominic successfully organized the rebuilding of the fleet. The
+      warships quickly returned to patrol and stopped several smuggling attempts.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24355636296986634
+    m_Localized: Dominic oversaw the repair work and was able to quickly return the
+      aircraft to service, ensuring a rapid response and saving many lives.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24355636296986635
+    m_Localized: Dominic secretly made purchases of firearms for his people.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24355636296986636
+    m_Localized: Dominic used some of the funds to strengthen his own influence and
+      increase his personal security, leaving the borders vulnerable.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24355636296986637
+    m_Localized: Under the guise of repairing military equipment, Dominic secretly
+      resold some of the parts on the black market, thereby weakening the army's
+      combat readiness and putting the city at risk.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24355636296986638
+    m_Localized: Under the guise of expanding video surveillance, Dominic installed
+      hidden cameras to personally spy on government officials and political rivals,
+      diverting resources from general security.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24355636296986639
+    m_Localized: Dominic used part of the funds to secretly sell ships and weapons
+      to private contractors, significantly weakening the coastal defenses.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24355636296986640
+    m_Localized: Under the guise of aircraft repairs, Dominic secretly leased some
+      of the equipment to private companies, leaving the army without the necessary
+      air force in a critical situation.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24355636296986641
+    m_Localized: After the disaster, teenage gangs roamed the streets. We need free
+      hands to rein them in. It's high time to organize people's police units.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24355636296986642
+    m_Localized: Our border is destroyed. If we don't strengthen patrols and restore
+      checkpoints, marauders and refugees will soon flock here. I propose that we
+      immediately establish a defense system and checkpoints.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24355636296986643
+    m_Localized: The disaster has disabled most of our military equipment. Without
+      its prompt restoration, we risk completely losing control over the region.
+      We urgently need to allocate resources for repairs and purchasing spare parts.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24355636296986644
+    m_Localized: In order to respond quickly to threats and nip crime in the bud,
+      we need to restore and expand the video surveillance network. The sooner we
+      get the eyes of the city back, the safer the situation will be
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24355636296986645
+    m_Localized: Without immediate repairs to the ships and strengthening of the
+      fleet, we risk encountering smuggling and piracy. I request that resources
+      be allocated for urgent modernization and return of the warships to duty
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24355636296986646
+    m_Localized: After the earthquake, our aviation is practically paralyzed. Without
+      urgent repair of runways and restoration of helipads, we will lose the ability
+      to quickly respond to emergency situations.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24355636296986647
+    m_Localized: The country will be proud of you.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24355636296986648
+    m_Localized: This is extremely insufficient for the request of law enforcement
+      agencies.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24355636296986649
+    m_Localized: You will regret it.
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []
